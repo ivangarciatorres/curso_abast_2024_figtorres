@@ -1,0 +1,13 @@
+C:\Users\igarcia\source\repos\Curso\Abast2024\Abast\Abast.Utils.Logger\bin\Debug\netstandard2.0\Logger.cs
+C:\Users\igarcia\source\repos\Curso\Abast2024\Abast\Abast.Utils.Logger\bin\Debug\netstandard2.0\FodyWeavers.xml
+C:\Users\igarcia\source\repos\Curso\Abast2024\Abast\Abast.Utils.Logger\bin\Debug\netstandard2.0\log4net.config
+C:\Users\igarcia\source\repos\Curso\Abast2024\Abast\Abast.Utils.Logger\bin\Debug\netstandard2.0\Abast.Utils.Logger.deps.json
+C:\Users\igarcia\source\repos\Curso\Abast2024\Abast\Abast.Utils.Logger\bin\Debug\netstandard2.0\Abast.Utils.Logger.dll
+C:\Users\igarcia\source\repos\Curso\Abast2024\Abast\Abast.Utils.Logger\bin\Debug\netstandard2.0\Abast.Utils.Logger.pdb
+C:\Users\igarcia\source\repos\Curso\Abast2024\Abast\Abast.Utils.Logger\obj\Debug\netstandard2.0\Abast.Utils.Logger.csproj.AssemblyReference.cache
+C:\Users\igarcia\source\repos\Curso\Abast2024\Abast\Abast.Utils.Logger\obj\Debug\netstandard2.0\Abast.Utils.Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igarcia\source\repos\Curso\Abast2024\Abast\Abast.Utils.Logger\obj\Debug\netstandard2.0\Abast.Utils.Logger.AssemblyInfoInputs.cache
+C:\Users\igarcia\source\repos\Curso\Abast2024\Abast\Abast.Utils.Logger\obj\Debug\netstandard2.0\Abast.Utils.Logger.AssemblyInfo.cs
+C:\Users\igarcia\source\repos\Curso\Abast2024\Abast\Abast.Utils.Logger\obj\Debug\netstandard2.0\Abast.Utils.Logger.csproj.CoreCompileInputs.cache
+C:\Users\igarcia\source\repos\Curso\Abast2024\Abast\Abast.Utils.Logger\obj\Debug\netstandard2.0\Abast.Utils.Logger.dll
+C:\Users\igarcia\source\repos\Curso\Abast2024\Abast\Abast.Utils.Logger\obj\Debug\netstandard2.0\Abast.Utils.Logger.pdb

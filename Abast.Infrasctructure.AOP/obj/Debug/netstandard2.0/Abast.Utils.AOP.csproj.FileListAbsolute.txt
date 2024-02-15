@@ -1,0 +1,17 @@
+C:\Users\igarcia\source\repos\Curso\Abast2024\Abast\Abast.Infrasctructure.AOP\obj\Debug\netstandard2.0\Abast.Utils.AOP.csproj.AssemblyReference.cache
+C:\Users\igarcia\source\repos\Curso\Abast2024\Abast\Abast.Infrasctructure.AOP\obj\Debug\netstandard2.0\Abast.Utils.AOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igarcia\source\repos\Curso\Abast2024\Abast\Abast.Infrasctructure.AOP\obj\Debug\netstandard2.0\Abast.Utils.AOP.AssemblyInfoInputs.cache
+C:\Users\igarcia\source\repos\Curso\Abast2024\Abast\Abast.Infrasctructure.AOP\obj\Debug\netstandard2.0\Abast.Utils.AOP.AssemblyInfo.cs
+C:\Users\igarcia\source\repos\Curso\Abast2024\Abast\Abast.Infrasctructure.AOP\obj\Debug\netstandard2.0\Abast.Utils.AOP.csproj.CoreCompileInputs.cache
+C:\Users\igarcia\source\repos\Curso\Abast2024\Abast\Abast.Infrasctructure.AOP\obj\Debug\netstandard2.0\Abast.Utils.AOP.dll
+C:\Users\igarcia\source\repos\Curso\Abast2024\Abast\Abast.Infrasctructure.AOP\obj\Debug\netstandard2.0\Abast.Utils.AOP.pdb
+C:\Users\igarcia\source\repos\Curso\Abast2024\Abast\Abast.Infrasctructure.AOP\bin\Debug\netstandard2.0\FodyWeavers.xml
+C:\Users\igarcia\source\repos\Curso\Abast2024\Abast\Abast.Infrasctructure.AOP\bin\Debug\netstandard2.0\FodyWeavers.xsd
+C:\Users\igarcia\source\repos\Curso\Abast2024\Abast\Abast.Infrasctructure.AOP\bin\Debug\netstandard2.0\Abast.Utils.AOP.deps.json
+C:\Users\igarcia\source\repos\Curso\Abast2024\Abast\Abast.Infrasctructure.AOP\bin\Debug\netstandard2.0\Abast.Utils.AOP.dll
+C:\Users\igarcia\source\repos\Curso\Abast2024\Abast\Abast.Infrasctructure.AOP\bin\Debug\netstandard2.0\Abast.Utils.AOP.pdb
+C:\Users\igarcia\source\repos\Curso\Abast2024\Abast\Abast.Infrasctructure.AOP\bin\Debug\netstandard2.0\Abast.Utils.Logger.dll
+C:\Users\igarcia\source\repos\Curso\Abast2024\Abast\Abast.Infrasctructure.AOP\bin\Debug\netstandard2.0\Abast.Utils.Logger.pdb
+C:\Users\igarcia\source\repos\Curso\Abast2024\Abast\Abast.Infrasctructure.AOP\obj\Debug\netstandard2.0\Abast.Utils.AOP.csproj.CopyComplete
+C:\Users\igarcia\source\repos\Curso\Abast2024\Abast\Abast.Infrasctructure.AOP\bin\Debug\netstandard2.0\Logger.cs
+C:\Users\igarcia\source\repos\Curso\Abast2024\Abast\Abast.Infrasctructure.AOP\bin\Debug\netstandard2.0\log4net.config

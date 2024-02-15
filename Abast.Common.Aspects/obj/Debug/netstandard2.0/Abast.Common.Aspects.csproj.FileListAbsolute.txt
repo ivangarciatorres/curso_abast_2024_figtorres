@@ -1,0 +1,10 @@
+C:\Users\igarcia\source\repos\Curso\Abast2024\Abast\Abast.Common.Aspects\bin\Debug\netstandard2.0\Abast.Common.Aspects.deps.json
+C:\Users\igarcia\source\repos\Curso\Abast2024\Abast\Abast.Common.Aspects\bin\Debug\netstandard2.0\Abast.Common.Aspects.dll
+C:\Users\igarcia\source\repos\Curso\Abast2024\Abast\Abast.Common.Aspects\bin\Debug\netstandard2.0\Abast.Common.Aspects.pdb
+C:\Users\igarcia\source\repos\Curso\Abast2024\Abast\Abast.Common.Aspects\obj\Debug\netstandard2.0\Abast.Common.Aspects.csproj.AssemblyReference.cache
+C:\Users\igarcia\source\repos\Curso\Abast2024\Abast\Abast.Common.Aspects\obj\Debug\netstandard2.0\Abast.Common.Aspects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igarcia\source\repos\Curso\Abast2024\Abast\Abast.Common.Aspects\obj\Debug\netstandard2.0\Abast.Common.Aspects.AssemblyInfoInputs.cache
+C:\Users\igarcia\source\repos\Curso\Abast2024\Abast\Abast.Common.Aspects\obj\Debug\netstandard2.0\Abast.Common.Aspects.AssemblyInfo.cs
+C:\Users\igarcia\source\repos\Curso\Abast2024\Abast\Abast.Common.Aspects\obj\Debug\netstandard2.0\Abast.Common.Aspects.csproj.CoreCompileInputs.cache
+C:\Users\igarcia\source\repos\Curso\Abast2024\Abast\Abast.Common.Aspects\obj\Debug\netstandard2.0\Abast.Common.Aspects.dll
+C:\Users\igarcia\source\repos\Curso\Abast2024\Abast\Abast.Common.Aspects\obj\Debug\netstandard2.0\Abast.Common.Aspects.pdb
