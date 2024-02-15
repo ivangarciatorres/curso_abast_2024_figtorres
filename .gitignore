@@ -10,3 +10,7 @@ _ReSharper.*
 bin
 obj
 packages
+*.vsidx
+/.vs/Abast/DesignTimeBuild/.dtbcache.v2
+*.testlog
+/.vs/Abast/v17/TestStore/0/000.testlog
